@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mohamed-3mr
 - 👀 I’m interested in Coding stuff
 - 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌌 Learned HTML and CSS.
 
 <!---
 Mohamed-3mr/Mohamed-3mr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
