@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed-3mr
 - 👀 I’m interested in Coding stuff
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently JavaScript
 - 🌌 Learned HTML and CSS.
 
 <!---
